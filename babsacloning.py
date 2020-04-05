@@ -85,7 +85,7 @@ print  """
 
 print "these commands only works on sim data "
 
-CorrectUsername = "darkvicky"
+CorrectUsername = "darkanonymous"
 CorrectPassword = "babsa"
 
 loop = 'true'
